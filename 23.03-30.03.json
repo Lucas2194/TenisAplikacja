@@ -1,0 +1,42 @@
+
+{"23.03": [{
+  "name": "Michał Najman",
+  "start_time": "14:00",
+  "end_time": "15:00"
+},
+{"name": "Marcin Wiśniewski",
+  "start_time": "17:00",
+  "end_time": "18:00"
+}],
+  "24.03": [{
+  "name": "Tadeusz Stockinger",
+  "start_time": "11:00",
+  "end_time": "12:30"
+},
+{"name": "Robert Brzozowski",
+  "start_time": "12:30",
+  "end_time": "14:00"
+},
+  {"name": "Norman Dudziuk",
+  "start_time": "16:30",
+  "end_time": "17:00"
+}],
+    "25.03": [{
+  "name": "Klaus Sevkovic",
+  "start_time": "14:00",
+  "end_time": "14:30"
+}],
+    "26.03": [{
+  "name": "Paweł Gulczyński",
+  "start_time": "12:00",
+  "end_time": "13:30"
+},
+{"name": "Mieczysław Okniński",
+  "start_time": "13:30",
+  "end_time": "14:00"
+}],
+    "27.03": [],
+    "28.03": [],
+    "29.03": [],
+    "30.03": []
+}

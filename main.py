@@ -28,7 +28,6 @@ df_final_json['end_time'] = pd.to_datetime(df_final_json['date'] + ' ' + df_fina
 
 df_final_json = df_final_json.drop(columns=["date"])
 
-# zmiana kolejności kolumn na "name", "start_time", "end_time"
 df_final_json = df_final_json[["name", "start_time", "end_time"]]
 
 while True:

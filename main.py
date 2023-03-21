@@ -210,8 +210,6 @@ def saveSchedule():
                 print(f"Schedule saved to {file_path}")
             else:
                 print("Invalid file format")
-
-            # If everything is successful, break out of the loop
             break
         except ValueError:
             print("Invalid date format. Please enter dates in the following format: DD.MM.YYYY")
